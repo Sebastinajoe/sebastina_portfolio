@@ -3,7 +3,7 @@
 A fully responsive, dark-themed personal portfolio website built from scratch using HTML5, CSS3, and Vanilla JavaScript.
 
 ## 🚀 Live Demo
-[View Portfolio](https://tranquil-licorice-fa5134.netlify.app)
+[View Portfolio](https://sebastinajoseph.netlify.app)
 
 ## ✨ Features
 - Animated typewriter hero section
